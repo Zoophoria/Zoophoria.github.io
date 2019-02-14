@@ -4158,7 +4158,7 @@
 	#footer {
 		background-color: #111111;
 		color: #ffffff;
-		padding: 6em 0 4em 0;
+		padding: 2em 0 1em 0;
 		background: #111111;
 	}
 
@@ -4363,6 +4363,7 @@
 
 		#footer .inner {
 			margin: 0 auto;
+			font-size: 75%;
 		}
 
 		#footer h2 {
